@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Advanced Sun Lamp [1.0]</name>
+  <author>SineSwiper</author>
+  <url>https://github.com/SineSwiper/RimWorld-AdvancedSunLamp</url>
+  <supportedVersions><li>1.0</li></supportedVersions>
+<description>Adds a new sun lamp that uses less power and provides light in a radius 3 times larger. Requires MultiAnalyzer research. You'll still need the roof supports to support the light radius, too :)
+
+Original Author: Jibbles, Armedwithpuns
+
+This one is modded a bit more balanced for 1.0 (ie: requiring components, more steel, more fragile, different graphic, etc.)</description>
+</ModMetaData>
